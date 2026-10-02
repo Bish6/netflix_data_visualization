@@ -55,8 +55,8 @@ Replaced missing countries with "Unknown"
 📁 Repository Structure
 ├── Netflix_Data_Visualization_project.pbix   # Power BI report file
 ├── assets/
-│   └── dashboard-preview.png                 # Dashboard screenshot
-└── README.md
+│   └── screenshot 2026-.png                 # Dashboard screenshot-
+└── README.md-
 
 🚀 How to Use
 Clone or download this repository.
